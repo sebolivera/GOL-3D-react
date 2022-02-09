@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GOL-3D-react/static/css/main.c491076b.chunk.css",
+    "main.js": "/GOL-3D-react/static/js/main.b0a34547.chunk.js",
+    "main.js.map": "/GOL-3D-react/static/js/main.b0a34547.chunk.js.map",
+    "runtime-main.js": "/GOL-3D-react/static/js/runtime-main.201e5506.js",
+    "runtime-main.js.map": "/GOL-3D-react/static/js/runtime-main.201e5506.js.map",
+    "static/css/2.4a35ef0a.chunk.css": "/GOL-3D-react/static/css/2.4a35ef0a.chunk.css",
+    "static/js/2.e553a632.chunk.js": "/GOL-3D-react/static/js/2.e553a632.chunk.js",
+    "static/js/2.e553a632.chunk.js.map": "/GOL-3D-react/static/js/2.e553a632.chunk.js.map",
+    "index.html": "/GOL-3D-react/index.html",
+    "static/css/2.4a35ef0a.chunk.css.map": "/GOL-3D-react/static/css/2.4a35ef0a.chunk.css.map",
+    "static/css/main.c491076b.chunk.css.map": "/GOL-3D-react/static/css/main.c491076b.chunk.css.map",
+    "static/js/2.e553a632.chunk.js.LICENSE.txt": "/GOL-3D-react/static/js/2.e553a632.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.201e5506.js",
+    "static/css/2.4a35ef0a.chunk.css",
+    "static/js/2.e553a632.chunk.js",
+    "static/css/main.c491076b.chunk.css",
+    "static/js/main.b0a34547.chunk.js"
+  ]
+}
