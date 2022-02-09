@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-gol-3d/static/css/main.e80b1f4e.chunk.css",
+    "main.js": "/react-gol-3d/static/js/main.3b0427ac.chunk.js",
+    "main.js.map": "/react-gol-3d/static/js/main.3b0427ac.chunk.js.map",
+    "runtime-main.js": "/react-gol-3d/static/js/runtime-main.6dfa18d6.js",
+    "runtime-main.js.map": "/react-gol-3d/static/js/runtime-main.6dfa18d6.js.map",
+    "static/css/2.0913e8e7.chunk.css": "/react-gol-3d/static/css/2.0913e8e7.chunk.css",
+    "static/js/2.fe835048.chunk.js": "/react-gol-3d/static/js/2.fe835048.chunk.js",
+    "static/js/2.fe835048.chunk.js.map": "/react-gol-3d/static/js/2.fe835048.chunk.js.map",
+    "index.html": "/react-gol-3d/index.html",
+    "static/css/2.0913e8e7.chunk.css.map": "/react-gol-3d/static/css/2.0913e8e7.chunk.css.map",
+    "static/css/main.e80b1f4e.chunk.css.map": "/react-gol-3d/static/css/main.e80b1f4e.chunk.css.map",
+    "static/js/2.fe835048.chunk.js.LICENSE.txt": "/react-gol-3d/static/js/2.fe835048.chunk.js.LICENSE.txt",
+    "static/media/300.css": "/react-gol-3d/static/media/roboto-vietnamese-300-normal.af9afdc1.woff2",
+    "static/media/400.css": "/react-gol-3d/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2",
+    "static/media/500.css": "/react-gol-3d/static/media/roboto-vietnamese-500-normal.b8e494da.woff2",
+    "static/media/700.css": "/react-gol-3d/static/media/roboto-vietnamese-700-normal.3096f18a.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dfa18d6.js",
+    "static/css/2.0913e8e7.chunk.css",
+    "static/js/2.fe835048.chunk.js",
+    "static/css/main.e80b1f4e.chunk.css",
+    "static/js/main.3b0427ac.chunk.js"
+  ]
+}

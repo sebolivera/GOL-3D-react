@@ -1,0 +1,60 @@
+.container
+{
+    position: absolute;
+    bottom : 2vh;
+    left: 1vw;
+    color : white;
+    font-family: 'Courier New', Courier, monospace;
+    z-index: 10000;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+}
+.mainContainer
+{
+    margin: 0;
+    padding: 0;
+    flex: 1 1 auto;
+}
+.mainPannel
+{
+    opacity:0.3;   
+    transition-delay: 3s;
+    transition: opacity 1s;
+}
+.mainPannel:hover{
+    opacity:1;
+    transition-delay: 3s;
+    transition: opacity 0.3s;
+}
+.aNoStyle
+{  text-decoration: none;
+    color: white;
+    font-family: 'roboto';
+    font-size: 30px;
+    background: none;
+    border: none;
+    cursor: inherit;
+}
+.canvasContainer
+{
+    margin: 0;
+    height: 100%;
+}
+#select-filled-label
+{
+    color: white;
+}
+.noHover
+{
+    cursor: initial;
+}
+.App, .mainContainer, #root, body, html
+{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.rc-slider-mark{
+    display: none;
+}
