@@ -58,3 +58,7 @@
 .rc-slider-mark{
     display: none;
 }
+
+.MuiSlider-markLabel {
+    color: #0000 !important;
+}
